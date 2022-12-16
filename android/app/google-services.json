@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536559257430",
+    "project_id": "flutterapp-c0fa6",
+    "storage_bucket": "flutterapp-c0fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536559257430:android:7cae67bdf1a9270846b8f7",
+        "android_client_info": {
+          "package_name": "lelouche.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536559257430-o4amg0ubek619isb632mak2c39aqcd8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRdgc7ITBIC0S8C-BENlTV-wApGB3picg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536559257430-o4amg0ubek619isb632mak2c39aqcd8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
